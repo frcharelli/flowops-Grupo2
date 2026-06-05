@@ -34,7 +34,7 @@ Este proyecto requiere el uso de Docker y Docker Compose para garantizar la cons
 
 ### 1. Clonar el repositorio y preparar el entorno
 Ejecutar los siguientes comandos en la terminal para descargar el proyecto y asegurar la creación de la estructura base de directorios:
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/frcharelli/flowops-Grupo2.git
 
 # Crear directorios locales para la persistencia de datos NoSQL
 mkdir -p data/mongodb data/redis data/cassandra
